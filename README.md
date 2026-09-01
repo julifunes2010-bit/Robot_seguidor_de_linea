@@ -1,4 +1,4 @@
-<h1 style="color: #00ff88;" align="center">⚡️⚡️BARRY⚡️⚡️</h1>
+<h1 style="color: #FF00FF;" align="center">⚡️⚡️BARRY⚡️⚡️</h1>
 
 <p align="center">
   
