@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://wokwi.com/projects/473429082338621441">
-    🔗 **VER PROYECTO EN WOKWI**
+    <img src="https://img.shields.io/badge/⚡%20ABRIR%20PROYECTO%20→-E50914?style=for-the-badge&labelColor=0D0D0D&color=E50914" />
   </a>
 </p>
