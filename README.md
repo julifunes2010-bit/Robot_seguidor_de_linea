@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://wokwi.com/projects/473429082338621441">
-    🔗 Ver proyecto
+    🔗 **VER PROYECTO EN WOKWI**
   </a>
 </p>
